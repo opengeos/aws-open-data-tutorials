@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home","text":"<p>AWS Open Data Tutorials</p>"},{"location":"template/","title":"Template","text":"In\u00a0[1]: Copied! <pre># !pip install leafmap\n</pre> # !pip install leafmap In\u00a0[\u00a0]: Copied! <pre>\n</pre>"}]}
